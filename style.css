@@ -7,6 +7,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Outfit', sans-serif;
 }
 
 .qrcode{
@@ -38,14 +39,12 @@ body{
     margin: 30px 30px 10px 30px;
     font-size: 21px;
     margin-top: 15px;
-    font-family: 'Outfit', sans-serif;
 }
 
 .text{
     color: grey;
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
-    margin: 20px 32px 30px 30px;
 }
 
 .attribution{
